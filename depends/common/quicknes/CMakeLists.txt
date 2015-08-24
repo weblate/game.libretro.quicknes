@@ -10,7 +10,10 @@ include(ExternalProject)
 
 if(CMAKE_BUILD_TYPE MATCHES Debug)
   set(LIBRETRO_DEBUG DEBUG=1)
+  message(FATAL_ERROR "This is a debug build")
 endif()
+
+message(FATAL_ERROR "This is a release build")
 
 if("${CORE_SYSTEM_NAME}" STREQUAL "windows")
   find_package(MinGW REQUIRED)
