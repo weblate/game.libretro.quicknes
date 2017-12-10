@@ -10,15 +10,17 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>NES</platforms>
-		<extensions></extensions>
-		<supports_vfs>false</supports_vfs>
+		<extensions>nes</extensions>
+		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">NES / Famicom (QuickNES)</summary>
-		<description>The QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility.</description>
+		<summary lang="en">NES / Famicom (QuickNES) 1.0-WIP</summary>
+		<description>The QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility.
+
+Supported files: .nes</description>
 		<license>LGPLv2.1+</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
