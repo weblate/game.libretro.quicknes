@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Nintendo - NES / Famicom (QuickNES) 1.0-WIP</summary>
-		<description>The QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility.
+		<summary lang="en_GB">Nintendo - NES / Famicom (QuickNES) 1.0-WIP</summary>
+		<description lang="en_GB">The QuickNES core library, originally by Shay Green, heavily modified. QuickNES is a newer emulator that seems to have good compatibility.
 
 Supported files: .nes</description>
 		<license>LGPLv2.1+</license>
