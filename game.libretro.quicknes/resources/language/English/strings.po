@@ -21,14 +21,18 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Aspect Ratio"
+msgid "Aspect ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Show horizontal overscan"
+msgid "No sprite limit"
 msgstr ""
 
 msgctxt "#30003"
+msgid "Show horizontal overscan"
+msgstr ""
+
+msgctxt "#30004"
 msgid "Show vertical overscan"
 msgstr ""
 

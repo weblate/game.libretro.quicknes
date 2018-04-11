@@ -2,7 +2,8 @@
 <settings>
 	<category label="30000">
 		<setting label="30001" type="select" id="quicknes_aspect_ratio_par" values="PAR|4:3" default="PAR"/>
-		<setting label="30002" type="select" id="quicknes_use_overscan_h" values="enabled|disabled" default="enabled"/>
-		<setting label="30003" type="select" id="quicknes_use_overscan_v" values="disabled|enabled" default="disabled"/>
+		<setting label="30002" type="select" id="quicknes_no_sprite_limit" values="enabled|disabled" default="enabled"/>
+		<setting label="30003" type="select" id="quicknes_use_overscan_h" values="enabled|disabled" default="enabled"/>
+		<setting label="30004" type="select" id="quicknes_use_overscan_v" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
