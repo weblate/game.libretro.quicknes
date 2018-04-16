@@ -25,14 +25,26 @@ msgid "Aspect ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "No sprite limit"
+msgid "Audio equalizer preset"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Show horizontal overscan"
+msgid "Audio linear/nonlinear"
 msgstr ""
 
 msgctxt "#30004"
+msgid "No sprite limit"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Allow Up+Down / Left+Right"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Show horizontal overscan"
+msgstr ""
+
+msgctxt "#30007"
 msgid "Show vertical overscan"
 msgstr ""
 
