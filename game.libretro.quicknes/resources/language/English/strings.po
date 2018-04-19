@@ -37,7 +37,7 @@ msgid "No sprite limit"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Allow Up+Down / Left+Right"
+msgid "Allow Opposing Directions"
 msgstr ""
 
 msgctxt "#30006"
