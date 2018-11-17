@@ -37,14 +37,26 @@ msgid "No sprite limit"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Allow Opposing Directions"
+msgid "Color Palette"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Show horizontal overscan"
+msgid "Turbo enable"
 msgstr ""
 
 msgctxt "#30007"
+msgid "Turbo pulse width (in frames)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Allow Opposing Directions"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Show horizontal overscan"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Show vertical overscan"
 msgstr ""
 
