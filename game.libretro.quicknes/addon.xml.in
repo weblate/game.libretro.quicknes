@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.quicknes"
 		name="Nintendo - NES / Famicom (QuickNES)"
-		version="1.0.0.9"
+		version="1.0.0.10"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
